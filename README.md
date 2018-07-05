@@ -1,7 +1,7 @@
 # Node.js Study
 >Hyperledge 분석을 하다보니, <br />
 golang과 node.js에 대해 궁금해졌습니다.  <br />
-node.js를 공부시작하면서 공부한 내용을 공유하며 소스 및 내용을 정리할 목적으로 작성합니다. 
+그 중에서 node.js를 공부시작하면서 공부한 내용을 공유하며 소스 및 내용을 정리할 목적으로 작성합니다. 
 
 # 자바스크립트 (JavaScript)
 - 1994년 넷스케이프사, 브랜드 아이히(Brandan Eich)가 만듬.
@@ -29,6 +29,8 @@ node.js를 공부시작하면서 공부한 내용을 공유하며 소스 및 내
   - ebay(이베이), PayPal(페이팔), Netflix(넷플릭스), LinkedIn(링크드인), Groupon(그루폰), Yammer(야머), Slack(슬랙)
 - 많은 개발자가 알아가고 있음
   - Node.js의 패키지 시스템인 npm의 사용자 증가 추세
+- 손쉬운 비동기 프로그래밍
+
 ## 단점
 - 실제 성능은 C, C++이 더 뛰어남
 
