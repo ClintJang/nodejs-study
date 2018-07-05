@@ -43,7 +43,7 @@ golang과 node.js에 대해 궁금해졌습니다.  <br />
   - 복잡한 소프트웨어에는 적합하지 않을 수 있음.
   
 ## Hello World
-### REPL (Read Eval Print Loop) 
+### 1. REPL (Read Eval Print Loop) 
 > 실제 한줄 씩 코드를 입력해 볼 수 있는 공간을 이용해서 Hello world를 찍어보려고 합니다. 
 - 콘솔에서 node를 실행시켜 REPL 화면이 나타나게 합니다.
 ```
@@ -65,6 +65,9 @@ or
 
 control + c
 ```
+
+### 2. 초간단 HTTP 서버
+> 내일? ㅋ
 
 # 상세 만들어보기
 - 정리.. 정리..
