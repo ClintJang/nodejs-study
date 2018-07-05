@@ -1,7 +1,8 @@
 # Node.js Study
->Hyperledge 분석을 하다보니, <br />
+>hyperledger 분석(공부)을 하다보니, <br />
 golang과 node.js에 대해 궁금해졌습니다.  <br />
 그 중에서 node.js를 공부시작하면서 공부한 내용을 공유하며 소스 및 내용을 정리할 목적으로 작성합니다. <br />
+<br />
 개발은 즐겁게~ 😀
 
 # 자바스크립트 (JavaScript)
