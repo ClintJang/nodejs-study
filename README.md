@@ -27,6 +27,7 @@ golang과 node.js에 대해 궁금해졌습니다.  <br />
   - 프론트, 백엔드도 모두 알 수 있는 언어 (커뮤니케이션 비용 감소)
 - 성능과 안정성 검증
   - ebay(이베이), PayPal(페이팔), Netflix(넷플릭스), LinkedIn(링크드인), Groupon(그루폰), Yammer(야머), Slack(슬랙)
+  - GitHub:Atom 에디터 어플리케이션, Visual Studio Code 어플리케이션, Slack 데스트톱 어플리케이션, 워드프레스 데스크톱 어플리케이션
 - 많은 개발자가 알아가고 있음
   - Node.js의 패키지 시스템인 npm의 사용자 증가 추세
   - https://insights.stackoverflow.com/survey/2018/ : 스택오버플러우 설문을 봐도 얼마나 사랑받는 지 알 수 있습니다.
@@ -41,5 +42,29 @@ golang과 node.js에 대해 궁금해졌습니다.  <br />
   - side effect가 날 확률이 높음, 안정성이 떨어짐.
   - 복잡한 소프트웨어에는 적합하지 않을 수 있음.
   
+## Hello World
+### REPL (Read Eval Print Loop) 
+> 실제 한줄 씩 코드를 입력해 볼 수 있는 공간을 이용해서 Hello world를 찍어보려고 합니다. 
+- 콘솔에서 node를 실행시켜 REPL 화면이 나타나게 합니다.
+```
+$ node
+> 
+```
+- 그리고 console.log('HelloWorld~:)'); 코드를 쳐서 HelloWorld를 찍어봅니다. 
+```
+>console.log('HelloWorld~:)');
+HelloWorld~:)
+undefined
+> 
+```
+- 참고로 종료는 ..
+```
+> .exit
+
+or
+
+control + c
+```
+
 # 상세 만들어보기
 - 정리.. 정리..
