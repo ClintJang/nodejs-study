@@ -4,7 +4,7 @@ golang과 node.js에 대해 궁금해졌습니다.  <br />
 그 중에서 node.js를 공부시작하면서 공부한 내용을 공유하며 소스 및 내용을 정리할 목적으로 작성합니다. <br />
 개발은 즐겁게~ 😀
 
-# [자바스크립트 (JavaScript)](https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
+# 자바스크립트 (JavaScript)
 - 1994년 넷스케이프사, 브랜드 아이히(Brandan Eich)가 만듬.
 - 명칭 : 모카(Mocha) -> 라이브스크립트(LiveScript) -> 자바스크립트
 - 자바스크립트로 인하여 인터넷 속도 개선, 이용성 향상등으로 활용도 높아짐.
@@ -13,7 +13,7 @@ golang과 node.js에 대해 궁금해졌습니다.  <br />
   - [Angular.js](https://ko.wikipedia.org/wiki/AngularJS) : 오픈 소스 프론트엔드 웹 애플리케이션 프레임워크
   - TypeScript : 공식적으로 Microsoft 의 지원, 정적 타입의 자바스크립트
 
-# [Node.js](https://nodejs.org/ko/)
+# Node.js (https://nodejs.org/ko/)
 ## [Node.js 란?](https://ko.wikipedia.org/wiki/Node.js)
 > 확장성 있는 네트워크 애플리케이션(특히 서버 사이드) 개발에 사용되는 소프트웨어 플랫폼
 - 서버 환경에서 자바스크립트를 사용해서 개발하려고 노력한 결과물
